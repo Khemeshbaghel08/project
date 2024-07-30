@@ -1,4 +1,4 @@
-# Question-Answering Model with QQAD
+# Quora queries with QQAD
 
 This project involves developing a state-of-the-art question-answering model using the Quora Question Answer Dataset (QQAD). The goal is to create an AI system capable of understanding and generating accurate responses to user queries.
 
@@ -54,11 +54,5 @@ We evaluated the model using various metrics like ROUGE, BLEU, and F1-score. Eva
 
 Visualizations of data distribution, feature importance, and model performance are included in the notebooks.
 
-## Report and Presentation
 
-- The final report can be found in the `report/` directory.
-- The presentation slides are located in the `presentation/` directory.
 
-## Contact
-
-For any queries, please contact Khemesh Baghel at khemeshbaghel@gmail.com.
